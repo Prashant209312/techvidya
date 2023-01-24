@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techvidya/static/css/main.073c9b0a.css",
+    "main.js": "/techvidya/static/js/main.c48cb72a.js",
+    "static/js/787.853fdad8.chunk.js": "/techvidya/static/js/787.853fdad8.chunk.js",
+    "static/media/logo.svg": "/techvidya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/techvidya/index.html",
+    "main.073c9b0a.css.map": "/techvidya/static/css/main.073c9b0a.css.map",
+    "main.c48cb72a.js.map": "/techvidya/static/js/main.c48cb72a.js.map",
+    "787.853fdad8.chunk.js.map": "/techvidya/static/js/787.853fdad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c48cb72a.js"
+  ]
+}
